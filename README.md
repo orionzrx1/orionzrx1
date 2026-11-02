@@ -1,4 +1,4 @@
-- Hi, I’m Dreyson
+- Hi, I’m orion
 - I’m currently learning to develop a personal website
 - I’m looking to collaborate on small OSdev projects
 - To reach me add @orionzrx on discord
